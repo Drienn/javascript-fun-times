@@ -1,0 +1,8 @@
+{
+  "name": "javascript-fun-times",
+  "scripts": {
+    "execute-0": "node 0eyedo.js",
+    "execute-1": "node 1weeDo.js",
+    "execute-2": "node 2eweDo.js"
+  }
+}
